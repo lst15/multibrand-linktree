@@ -663,6 +663,10 @@ video {
   border-radius: 1rem;
 }
 
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
